@@ -1,0 +1,11 @@
+[
+  {
+    "text": "This is the first task.\nIt includes line breaks."
+  },
+  {
+    "text": "This is the second task.\nIt also includes line breaks."
+  },
+  {
+    "text": "This is the third task.\nNo line breaks in this one."
+  }
+]

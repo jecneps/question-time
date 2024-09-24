@@ -1,0 +1,2 @@
+The following text is a question asked during parlimentary question time. It has been judged to have a clear and direct question that can be directly answered in good faith. Modify the text so that the portion of the text that is the clear and direct question is highlighted. Highlight it in the color %s according to %s. Do not return anything except the modified text. Here is the text:
+%s

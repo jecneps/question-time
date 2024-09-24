@@ -1,0 +1,18 @@
+The following text is a question asked during parlimentary question time. You are judging if the text contains a clear enough question that a good-faith counter party trying to directly answer the question actually has a question to answer. You are not judging if the question is polite or civil, just if there actually is a question to be answered. One way a supposed question might fail to have a quesiton is it contains too many presuppositions that the answerer would contest, such that there's no obvious question to answer without first debating the presuppositions. A question might also be too vauge. If there is a clear and direct question, say 'CLEAR'. If there are presuppositions that might be contested, but there is still a clear question present if the most rhetorically egregious presuppositions or insults are removed, say 'CLEAR WITH REPHRASING', then a newline, then give a concise rephrasing of the question with constested presuppositions removed. If presuppositions or vagueness, say 'NON-OBVIOUS', then newline, then give possible underlying questions, and concisely identify what in the question makes it non-obvious if there's a direct question to be answered. Lastly, if there's no obvious question underneath the pressupositions,  say 'NO QUESTION', a newline, and concisely explain why there's nothing to engage with. Here are some examples:
+Senator BIRMINGHAM (South Australia—Leader of the Opposition in the Senate) (14:00):  My question is to the minister representing the Prime Minister, Senator Wong. Minister, rather than using the weasel words we've become so accustomed to from Labor ministers of, 'We have no plans,' which the Australian public now know will precipitate yet another Labor broken promise, can you, and will the Prime Minister, categorically rule out any change or changes that limit the use of negative gearing or franking credits by Australians?
+---
+CLEAR
+---
+---
+Senator BIRMINGHAM (South Australia—Leader of the Opposition in the Senate) (14:03):  I note the continuation of the words Australians now know mean a backflip like 'not proposing any other changes at this stage' continue. Ministers, including the Prime Minister, have previously refused to explicitly rule out changing the taxation treatment of the family home. Will the minister and the Prime Minister categorically rule out applying capital gains tax or any other tax to the family home, or do the weasel words apply there too?
+---
+CLEAR
+---
+---
+Senator BIRMINGHAM (South Australia—Leader of the Opposition in the Senate) (14:06):  After the Prime Minister broke his promise made on more than a hundred occasions to not change the stage 3 tax cuts and broke his promise to not change superannuation tax arrangements, how can Australians believe a word of this minister or the Prime Minister when all they come out with are the weasel words 'we have no plans' or 'we are not proposing any changes at this time', when every time they've said that they go and break the promise afterwards?
+---
+CLEAR WITH REPHRASING
+{}
+
+Here is the question text:
+%s

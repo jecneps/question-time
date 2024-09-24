@@ -1,0 +1,2 @@
+The following text is a question asked during parlimentary question time. Modify the text so that the portion where the actual question is directly asked, the part that is most syntactically clearly a question, is highlighted. Highlight it in the color %s according to %s. Do not return anything except the modified text. Here is the text:
+%s

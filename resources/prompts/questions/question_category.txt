@@ -1,0 +1,8 @@
+The following text is a question asked during parlimentary question time. You are judging if the text contains a clear enough question that a good-faith counter party trying to directly answer the question actually has a question to answer. You are not judging if the question is polite or civil, just if there actually is a question to be answered. Specifically you are categorizing questions into 5 categories defined as follows:
+"CLEAR": this is for questions that have an obvious and clear request for information that can be answered directly.
+"CLEAR + RHETORIC": this is for questions that, while they might have extra rhetorical attacks or contested pressuppositions, once those are ignored there is still a direct and clear question obvious in the text that could be repeated verbatum.
+"CLEAR WITH REPHRASING": this is for questions that have a clear question, but have enough rhetorical attacks or contested presuppositions that the text needs to be rephrased to be apparent.
+"AMBIGUOUS": a question where it's ambiguous what the question would be if contested presuppositions were removed. There's possible clean questions, but it's not obvious which was meant.
+"NULL": a question which has too many rhetorical attacks or contested presuppositions for there to be any clean question which could be answered without first having a deabte.
+Categorize the following question. Give only the category and no other text:
+%s
